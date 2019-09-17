@@ -1,0 +1,30 @@
+body{background-color: #5c743d;
+    color:#333;
+    font-family: Arial, Verdana, sans-serif;
+    background-image: linear-gradient(#5c743d, #ffffff);
+    background-repeat: no-repeat;
+}
+h2{background-color: #D5EDB3;
+    color:#5c743D
+        font-family: Georgia, "Times New Roman", serif;
+    background-image: url(trilliumbullet.gif);
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+p{font-size:.90em;}
+ul{font-weight:bold;}
+nav{font-weight:bold;
+font-size:.75em}
+footer{font-size:.75em;
+font-style: italic;
+border-top: thin solid #AEAED4;
+padding-top: 10px;}
+img{border-style: none;}
+#container{background-color: #FFF;
+    padding:20px;
+    width:80%;
+    box-shadow:5px 5px 5px #1E1E1E;
+    background:url(trilliumfoot.gif) no-repeat bottom right, #ffffff;
+   margin: auto; 
+    
+}
